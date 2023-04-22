@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MessageNapoleonThePlant/static/css/main.ec6dcf85.css",
+    "main.js": "/MessageNapoleonThePlant/static/js/main.53c6355b.js",
+    "static/js/787.fd333685.chunk.js": "/MessageNapoleonThePlant/static/js/787.fd333685.chunk.js",
+    "index.html": "/MessageNapoleonThePlant/index.html",
+    "main.ec6dcf85.css.map": "/MessageNapoleonThePlant/static/css/main.ec6dcf85.css.map",
+    "main.53c6355b.js.map": "/MessageNapoleonThePlant/static/js/main.53c6355b.js.map",
+    "787.fd333685.chunk.js.map": "/MessageNapoleonThePlant/static/js/787.fd333685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.53c6355b.js"
+  ]
+}
