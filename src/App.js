@@ -35,7 +35,8 @@ function App() {
     <div className="App">
       <header>
         <h3>Talk to Napoleon The Plant </h3>
-        <p>Back:https://anavpatel.github.io/NapoleonThePlant/index.html</p>
+        <p>Send NapoleonThePlant some motivating messages to help him grow! </p>
+        <a href='https://anavpatel.github.io/NapoleonThePlant/index.html'>Back</a>
         <SignOut />
       </header>
 
